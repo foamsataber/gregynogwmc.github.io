@@ -1,13 +1,13 @@
 ---
 id: 5
-title: Gregynog 2020
+title: Gregynog 2022
 date: 2018-11-05
 author: nickgill
 layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-#### This meeting was due to be held at Gregynog Hall, Newtown on 18-20 May 2020. Due to the travel restrictions imposed in response to the Covid-19 pandemic, this year's colloquium is postponed until 23-25 May 2022. 
+#### Wales Mathematics Colloquium, Gregynog Hall, Newtown, 23-25 May 2022. 
 
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
@@ -25,7 +25,11 @@ The following invited speakers have agreed to give keynote lectures:
       
 - [Professor Stefan Weigert](https://www.york.ac.uk/maths/staff/stefan-weigert/), University of York.<BR>
       *Title: A survey of mutually unbiased bases.*
-
+     
+Welsh session: 
+- [Professor Philip Jonathan](http://www.lancs.ac.uk/~jonathan/), Lancaster University.<BR>
+      *Title: tba*
+     
 Further talks will be solicited from those attending.
 
 The main organiser of the Colloquium is [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) (Aberystwyth University, Department of Mathematics).
